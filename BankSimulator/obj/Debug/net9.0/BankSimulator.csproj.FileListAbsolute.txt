@@ -1,0 +1,15 @@
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\bin\Debug\net9.0\BankSimulator.exe
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\bin\Debug\net9.0\BankSimulator.deps.json
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\bin\Debug\net9.0\BankSimulator.runtimeconfig.json
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\bin\Debug\net9.0\BankSimulator.dll
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\bin\Debug\net9.0\BankSimulator.pdb
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.AssemblyInfoInputs.cache
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.AssemblyInfo.cs
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.sourcelink.json
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.dll
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\refint\BankSimulator.dll
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.pdb
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\BankSimulator.genruntimeconfig.cache
+C:\Users\Student4-2\ubiquitous-parakeet\BankSimulator\obj\Debug\net9.0\ref\BankSimulator.dll
